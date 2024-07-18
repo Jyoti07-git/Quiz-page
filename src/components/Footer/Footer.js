@@ -7,12 +7,9 @@ const Footer = () => {
       }}
     >
       Made with ♥ by{" "}
-      <a
-        href="https://www.youtube.com/roadsidecoder"
-        style={{ cursor: "pointer" }}
-      >
-        Roadside Coder
-      </a>
+      
+        Jyotiprava Panda
+      
     </div>
   );
 };

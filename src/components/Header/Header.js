@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header">
       <Link to="/" className="title">
-        Intuitive Quiz Hub
+        VerveBridge Quiz 
       </Link>
       <hr className="divider" />
     </div>
